@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/kkaah/Downloads/BinaryCalculator/target/BinaryCalculator-1.0.0.jar;C:/Users/kkaah/Downloads/BinaryCalculator/target/classes;C:/Users/kkaah/Downloads/BinaryCalculator/target/test-classes;C:/Users/kkaah/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/kkaah/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/kkaah/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/kkaah/Downloads/BinaryCalculator/src/test/java;C:/Users/kkaah/Downloads/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kkaah/Downloads/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/kkaah/Downloads/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/kkaah/Downloads/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\kkaah\Downloads\BinaryCalculator\src\test\java = 1769578013110
+C:\Users\kkaah\Downloads\BinaryCalculator\target\generated-test-sources\test-annotations = 1769589134130
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1769589144764
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1769589144768
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\element-list = 1769589144694
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\help-doc.html = 1769589144798
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\index-all.html = 1769589144788
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\index.html = 1769589144794
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1769589144774
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1769589144770
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1769589144733
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1769589144772
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\search.html = 1769589144791
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1769589144775
+C:\Users\kkaah\Downloads\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1769589144773
